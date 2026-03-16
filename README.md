@@ -24,6 +24,7 @@ The RDA allows us to visualize the "push and pull" of environmental factors:
 
 ## PCA: The Driving Forces
 The Principal Component Analysis revealed that 72.47% of the variance is captured by the first three dimensions. The first axis (Dim 1) clearly separates "Conservation" (Forest Cover) from "Anthropization" (Built-up and Crops).
+![Correlation plot](img/correlation.jpeg)
 
 ## 🗺️ Landscape Typology & Clustering (PCA + HCPC)
 
@@ -39,3 +40,4 @@ b. **Cluster 2: Fragmented Thermal Hotspots**
 c. **Cluster 3: Anthropized Runoff Basins**
 * **Profile**: Dominant `anthropic_press`, high `ndwi` (surface water signatures), and high `awy_ha` (Runoff).
 * **Insight**: Urbanized or heavily cultivated areas where the hydrological cycle is dominated by surface runoff rather than infiltration.
+![Cluster and Variables relations](img/last_gra.jpeg)
